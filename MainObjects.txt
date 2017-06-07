@@ -1,0 +1,15 @@
+lblAName: Team A name label
+lblBName: Team B name label
+lblVS: The VS label
+
+lblAScore: Team A score label
+lblBScore: Team B score label
+lblDash: The dash label (-)
+
+btnUpA: Team A score up
+btnUpB: Team B score up
+btnReset: Reset button
+
+btnDownA: Team A score down
+btnDownB: Team B score down
+btnChangeNames: Change names call
